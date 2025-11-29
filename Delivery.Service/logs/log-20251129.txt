@@ -1,0 +1,8 @@
+[11:05:42:110 INF ()] Now listening on: http://localhost:5058
+[11:05:42:261 INF ()] Application started. Press Ctrl+C to shut down.
+[11:05:42:264 INF ()] Hosting environment: Development
+[11:05:42:267 INF ()] Content root path: D:\REPOSITORY\.net\Delivery\Delivery.Service
+[11:05:57:929 WRN (3b598691-9c2f-4d59-92a2-c5681557f2ce)] Failed to determine the https port for redirect.
+[11:05:57:965 INF (3b598691-9c2f-4d59-92a2-c5681557f2ce)] HTTP GET / responded 200 in 95.9570 ms
+[11:05:58:142 INF (9039b898-e042-4188-b150-5eab65c69bab)] HTTP GET /favicon.ico responded 404 in 3.5580 ms
+[11:07:00:976 INF ()] Application is shutting down...

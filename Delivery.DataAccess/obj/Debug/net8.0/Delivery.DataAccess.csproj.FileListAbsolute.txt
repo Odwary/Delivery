@@ -1,0 +1,14 @@
+D:\REPOSITORY\.net\Delivery\Delivery.DataAccess\bin\Debug\net8.0\Delivery.DataAccess.deps.json
+D:\REPOSITORY\.net\Delivery\Delivery.DataAccess\bin\Debug\net8.0\Delivery.DataAccess.runtimeconfig.json
+D:\REPOSITORY\.net\Delivery\Delivery.DataAccess\bin\Debug\net8.0\Delivery.DataAccess.dll
+D:\REPOSITORY\.net\Delivery\Delivery.DataAccess\bin\Debug\net8.0\Delivery.DataAccess.pdb
+D:\REPOSITORY\.net\Delivery\Delivery.DataAccess\obj\Debug\net8.0\Delivery.DataAccess.csproj.AssemblyReference.cache
+D:\REPOSITORY\.net\Delivery\Delivery.DataAccess\obj\Debug\net8.0\Delivery.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORY\.net\Delivery\Delivery.DataAccess\obj\Debug\net8.0\Delivery.DataAccess.AssemblyInfoInputs.cache
+D:\REPOSITORY\.net\Delivery\Delivery.DataAccess\obj\Debug\net8.0\Delivery.DataAccess.AssemblyInfo.cs
+D:\REPOSITORY\.net\Delivery\Delivery.DataAccess\obj\Debug\net8.0\Delivery.DataAccess.csproj.CoreCompileInputs.cache
+D:\REPOSITORY\.net\Delivery\Delivery.DataAccess\obj\Debug\net8.0\Delivery.DataAccess.dll
+D:\REPOSITORY\.net\Delivery\Delivery.DataAccess\obj\Debug\net8.0\refint\Delivery.DataAccess.dll
+D:\REPOSITORY\.net\Delivery\Delivery.DataAccess\obj\Debug\net8.0\Delivery.DataAccess.pdb
+D:\REPOSITORY\.net\Delivery\Delivery.DataAccess\obj\Debug\net8.0\Delivery.DataAccess.genruntimeconfig.cache
+D:\REPOSITORY\.net\Delivery\Delivery.DataAccess\obj\Debug\net8.0\ref\Delivery.DataAccess.dll

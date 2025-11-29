@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delivery.Service", "Delivery.Service\Delivery.Service.csproj", "{CBA11C41-9BAB-425D-8BFB-69106FFE5DD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delivery.DataAccess", "Delivery.DataAccess\Delivery.DataAccess.csproj", "{92C2BEA6-52D3-4FDE-BA1F-D7C1D9092ED6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delivery.BL", "Delivery.BL\Delivery.BL.csproj", "{F799207D-A8C6-486F-B7F8-C02D51EA3AD4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{68082A0E-A153-4501-B78D-5EBD5583F751}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBA11C41-9BAB-425D-8BFB-69106FFE5DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA11C41-9BAB-425D-8BFB-69106FFE5DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA11C41-9BAB-425D-8BFB-69106FFE5DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA11C41-9BAB-425D-8BFB-69106FFE5DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92C2BEA6-52D3-4FDE-BA1F-D7C1D9092ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C2BEA6-52D3-4FDE-BA1F-D7C1D9092ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92C2BEA6-52D3-4FDE-BA1F-D7C1D9092ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92C2BEA6-52D3-4FDE-BA1F-D7C1D9092ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F799207D-A8C6-486F-B7F8-C02D51EA3AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F799207D-A8C6-486F-B7F8-C02D51EA3AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F799207D-A8C6-486F-B7F8-C02D51EA3AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F799207D-A8C6-486F-B7F8-C02D51EA3AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{92C2BEA6-52D3-4FDE-BA1F-D7C1D9092ED6} = {68082A0E-A153-4501-B78D-5EBD5583F751}
+		{F799207D-A8C6-486F-B7F8-C02D51EA3AD4} = {68082A0E-A153-4501-B78D-5EBD5583F751}
+		{CBA11C41-9BAB-425D-8BFB-69106FFE5DD7} = {68082A0E-A153-4501-B78D-5EBD5583F751}
+	EndGlobalSection
+EndGlobal

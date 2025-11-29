@@ -1,0 +1,11 @@
+D:\REPOSITORY\.net\Delivery\Delivery.BL\bin\Debug\net8.0\Delivery.BL.deps.json
+D:\REPOSITORY\.net\Delivery\Delivery.BL\bin\Debug\net8.0\Delivery.BL.dll
+D:\REPOSITORY\.net\Delivery\Delivery.BL\bin\Debug\net8.0\Delivery.BL.pdb
+D:\REPOSITORY\.net\Delivery\Delivery.BL\obj\Debug\net8.0\Delivery.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORY\.net\Delivery\Delivery.BL\obj\Debug\net8.0\Delivery.BL.AssemblyInfoInputs.cache
+D:\REPOSITORY\.net\Delivery\Delivery.BL\obj\Debug\net8.0\Delivery.BL.AssemblyInfo.cs
+D:\REPOSITORY\.net\Delivery\Delivery.BL\obj\Debug\net8.0\Delivery.BL.csproj.CoreCompileInputs.cache
+D:\REPOSITORY\.net\Delivery\Delivery.BL\obj\Debug\net8.0\Delivery.BL.dll
+D:\REPOSITORY\.net\Delivery\Delivery.BL\obj\Debug\net8.0\refint\Delivery.BL.dll
+D:\REPOSITORY\.net\Delivery\Delivery.BL\obj\Debug\net8.0\Delivery.BL.pdb
+D:\REPOSITORY\.net\Delivery\Delivery.BL\obj\Debug\net8.0\ref\Delivery.BL.dll
